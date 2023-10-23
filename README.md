@@ -44,13 +44,13 @@ To Download:
 
 
 ## Documentation
-Want to know more about PyQt-Fluent-Widgets? Please read the [help document](https://qfluentwidgets.com) 👈
+<!-- Want to know more about PyQt-Fluent-Widgets? Please read the [help document](https://qfluentwidgets.com) 👈 -->
 
 ## Video Demonstration
-Check out this [▶ example video](https://www.bilibili.com/video/BV12c411L73q) that shows off what PyQt-Fluent-Widgets are capable of 🎉
+<!-- Check out this [▶ example video](https://www.bilibili.com/video/BV12c411L73q) that shows off what PyQt-Fluent-Widgets are capable of 🎉 -->
 
 ## Support
-If this project helps you a lot and you want to support the development and maintenance of this project, feel free to sponsor me via [爱发电](https://afdian.net/a/zhiyiYo) or [ko-fi](https://ko-fi.com/zhiyiYo). Your support is highly appreciated 🥰
+<!-- If this project helps you a lot and you want to support the development and maintenance of this project, feel free to sponsor me via [爱发电](https://afdian.net/a/zhiyiYo) or [ko-fi](https://ko-fi.com/zhiyiYo). Your support is highly appreciated 🥰 -->
 
 ## See Also
 Here are some projects based on PyQt:
