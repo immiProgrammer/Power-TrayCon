@@ -54,11 +54,11 @@ To Download:
 
 ## See Also
 Here are some projects based on PyQt:
-* [**immiProgrammer/invoice-application**: An exceptionally robust application, thoughtfully tailored for bookshops, featuring a sleek and modern user interface, to seamlessly generate invoices with ease](https://github.com/zhiyiYo/QMaterialWidgets)
+* [**immiProgrammer/invoice-application**: An exceptionally robust application, thoughtfully tailored for bookshops, featuring a sleek and modern user interface, to seamlessly generate invoices with ease](https://github.com/immiProgrammer/invoice-application)
 
 
 ## Reference
-* [**PyQt5**: A Python library that allows you to create graphical user interfaces with Qt, a cross-platform application framework](https://github.com/immiProgrammer/invoice-application)
+* [**PyQt5**: A Python library that allows you to create graphical user interfaces with Qt, a cross-platform application framework](https://doc.qt.io/qtforpython-5/)
 * [**PyQt-Fluent-Widgets**: A fluent design widgets library based on PyQt5](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
 ## License
