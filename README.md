@@ -58,7 +58,7 @@ Here are some projects based on PyQt:
 
 
 ## Reference
-* [**PyQt5**: A Python library that allows you to create graphical user interfaces with Qt, a cross-platform application framework](https://doc.qt.io/qtforpython-5/)
+* [**PyQt5**: A Python library that allows you to create graphical user interfaces with Qt, a cross-platform application framework](https://github.com/immiProgrammer/invoice-application)
 * [**PyQt-Fluent-Widgets**: A fluent design widgets library based on PyQt5](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
 ## License
