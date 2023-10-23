@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="25%" align="center" src="https://i.postimg.cc/nr44wBB2/power-traycon.png" alt="logo">
+  <img width="20%" align="center" src="https://i.postimg.cc/nr44wBB2/power-traycon.png" alt="logo">
 </p>
   <h1 align="center">
   Power TrayCon
