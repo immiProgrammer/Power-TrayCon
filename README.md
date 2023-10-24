@@ -1,7 +1,7 @@
 <p align="center">
   <img width="20%" align="center" src="https://i.postimg.cc/nr44wBB2/power-traycon.png" alt="logo">
 </p>
-<h1 align="center"> Power TrayCon</h1>
+<h1 align="center">  Power TrayCon</h1>
 <p align="center">
   Battery Percentage Tray Icon
 </p>
